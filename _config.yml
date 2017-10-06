@@ -1,4 +1,3 @@
 theme: jekyll-theme-midnight
-site:
-  title: This is title!!!
-  description: This is a description!!!!
+title: This is title!!!
+description: This is a description!!!!
