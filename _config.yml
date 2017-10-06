@@ -1,5 +1,1 @@
 theme: jekyll-theme-midnight
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
